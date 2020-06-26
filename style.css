@@ -1,0 +1,27 @@
+.lek
+{
+    border:1px rgba(23, 23, 216, 0.356) solid;
+    border-radius: 200px;
+    padding: 10px;
+}
+#picture
+{
+    background: linear-gradient(rgba(37, 54, 211, 0.432),rgba(37, 54, 211, 0.432)), url(mont.jpg)center/cover no-repeat;
+}
+.bandenoir
+{
+    width: 700px;
+    height: 1px;
+    margin: auto;
+}
+.card-avatar
+{
+    position: relative;
+    bottom: 80px;
+}
+.lik
+{
+    border:1px rgba(23, 23, 216, 0.356) solid;
+    border-radius: 250px;
+    padding: 60px;
+}
